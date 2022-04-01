@@ -1,0 +1,10 @@
+E:\Dane\GitProject\Warcaby\bin\Debug\Warcaby.exe.config
+E:\Dane\GitProject\Warcaby\bin\Debug\Warcaby.exe
+E:\Dane\GitProject\Warcaby\bin\Debug\Warcaby.pdb
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.csproj.AssemblyReference.cache
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.Form1.resources
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.cache
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.csproj.CoreCompileInputs.cache
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.exe
+E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.pdb
