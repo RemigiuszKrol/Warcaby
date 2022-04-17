@@ -8,3 +8,13 @@ E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.cache
 E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.csproj.CoreCompileInputs.cache
 E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.exe
 E:\Dane\GitProject\Warcaby\obj\Debug\Warcaby.pdb
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\bin\Debug\Warcaby.exe.config
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\bin\Debug\Warcaby.exe
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\bin\Debug\Warcaby.pdb
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.csproj.AssemblyReference.cache
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.Form1.resources
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.cache
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.csproj.CoreCompileInputs.cache
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.exe
+C:\Users\remig\OneDrive\Pulpit\Projects\Warcaby\obj\Debug\Warcaby.pdb
